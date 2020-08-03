@@ -3,6 +3,7 @@ class Jlauncher < Formula
   version "0.2.0"
   homepage "https://github.com/programmiersportgruppe/j"
   url "https://github.com/programmiersportgruppe/j"
+  sha256 "beafd6c15b66d7d5c2f6cf35cd21d03e1ffadde3fce407441dac9a5100127a6d"
 
   uses_from_macos "ruby"
 
